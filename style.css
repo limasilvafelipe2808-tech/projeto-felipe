@@ -1,0 +1,12 @@
+body {background-color: rgb(226, 19, 19);
+}
+h1 {border-color: black;
+    border-width: 6px;
+    border-style: double;
+}
+h1 { margin-left: 25%;
+     padding-right: 20%;
+    }
+h2 {font-size: 200%;
+    color:rgb(4, 9, 103)}
+    
